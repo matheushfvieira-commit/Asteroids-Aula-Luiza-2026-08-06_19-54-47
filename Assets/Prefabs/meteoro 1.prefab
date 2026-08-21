@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5627398880601612696}
   - component: {fileID: 6480449849691744267}
   - component: {fileID: 7783703801525714845}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: meteoro 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ PolygonCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: b41b40106b6703c47affaaaa2c89c9b2, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
