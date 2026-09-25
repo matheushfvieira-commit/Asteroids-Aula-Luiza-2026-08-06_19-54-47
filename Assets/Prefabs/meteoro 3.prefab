@@ -195,3 +195,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0930f3e0764209d4cacdae9938c380f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::obstacle
+  tempoAposPassarParede: 3
+  limiteX: 9.5
+  limiteY: 5.5
